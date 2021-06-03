@@ -1,0 +1,2 @@
+me/guilherme/s/forato/shared/BuildConfig.java
+ me.guilherme.s.forato.shared.BuildConfig

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_humidade.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\src\\main\\res\\drawable\\humidade.png"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_clima2.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\src\\main\\res\\drawable\\clima2.png"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_frio.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\src\\main\\res\\drawable\\frio.png"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_fundo.jpg.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\src\\main\\res\\drawable\\fundo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_clima1.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\src\\main\\res\\drawable\\clima1.png"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_quente.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\src\\main\\res\\drawable\\quente.png"
+    }
+]
