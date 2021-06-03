@@ -36,7 +36,7 @@
           android:layout_marginTop="30dp"
           android:gravity="center"
           android:paddingVertical="10dp"
-          android:text="@string/hello_blank_fragment"
+          tools:text="@string/hello_blank_fragment"
           android:textAllCaps="true"
           android:textColor="@color/white"
           android:textSize="25sp"
