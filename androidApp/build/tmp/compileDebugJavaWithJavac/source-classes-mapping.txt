@@ -1,4 +1,8 @@
+me/guilherme/s/forato/androidApp/databinding/FragmentHomeBinding.java
+ me.guilherme.s.forato.androidApp.databinding.FragmentHomeBinding
 me/guilherme/s/forato/androidApp/BuildConfig.java
  me.guilherme.s.forato.androidApp.BuildConfig
 me/guilherme/s/forato/androidApp/databinding/ActivityMainBinding.java
  me.guilherme.s.forato.androidApp.databinding.ActivityMainBinding
+me/guilherme/s/forato/androidApp/databinding/ItemPrevisionBinding.java
+ me.guilherme.s.forato.androidApp.databinding.ItemPrevisionBinding

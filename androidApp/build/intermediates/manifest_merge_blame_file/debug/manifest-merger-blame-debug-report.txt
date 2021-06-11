@@ -6,42 +6,42 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml
+8-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml
+9-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-11-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml:5:5-79
-11-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml:5:22-76
+11-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:4:5-79
+11-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:4:22-76
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml:6:5-66
-12-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml:6:22-64
+12-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:5:5-66
+12-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:5:22-64
 13
 14    <application
-14-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml:8:5-20:19
-15        android:allowBackup="true"
-15-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml:9:9-35
+14-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:7:5-17:19
+15        android:allowBackup="false"
+15-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:8:13-40
 16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 16-->[androidx.core:core:1.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\36d9f961dad5746e51fba3b64c974550\core-1.5.0\AndroidManifest.xml:24:18-86
 17        android:debuggable="true"
 18        android:extractNativeLibs="false"
 19        android:supportsRtl="true"
-19-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml:10:9-35
+19-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:9:13-39
 20        android:testOnly="true"
 21        android:theme="@style/AppTheme" >
-21-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml:11:9-40
+21-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:10:13-44
 22        <activity android:name="me.guilherme.s.forato.androidApp.MainActivity" >
-22-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml:13:9-19:20
-22-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml:13:19-47
+22-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:11:9-16:20
+22-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:11:19-47
 23            <intent-filter>
-23-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml:14:13-18:29
+23-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:12:13-15:29
 24                <action android:name="android.intent.action.MAIN" />
-24-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml:15:17-69
-24-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml:15:25-66
+24-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:13:17-68
+24-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:13:25-66
 25
 26                <category android:name="android.intent.category.LAUNCHER" />
-26-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml:17:17-77
-26-->C:\Users\Guilherme S Forato\Desktop\meteorologia\androidApp\src\main\AndroidManifest.xml:17:27-74
+26-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:14:17-76
+26-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:14:27-74
 27            </intent-filter>
 28        </activity>
 29        <activity

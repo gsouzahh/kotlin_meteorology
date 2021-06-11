@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="#00E4E4E4">
+
+    <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="15dp"
+            app:cardElevation="6dp"
+            android:backgroundTint="#B300192B"
+            tools:ignore="MissingConstraints">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:padding="10dp"
+                android:layout_height="match_parent">
+
+            <TextView
+                    android:id="@+id/txtCodigo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    app:layout_constraintVertical_chainStyle="packed"
+                    android:textColor="@color/white"
+                    app:layout_constraintBottom_toTopOf="@id/imgClima"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tools:text="1623182400" />
+
+            <ImageView
+                    android:id="@+id/imgClima"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    tools:src="@drawable/nublado"
+                    app:layout_constraintBottom_toTopOf="@id/txtDescription"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/txtCodigo" />
+
+            <TextView
+                    android:id="@+id/txtDescription"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:textAllCaps="true"
+                    app:layout_constraintBottom_toTopOf="@id/iconMax"
+                    android:textColor="@color/white"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/imgClima"
+                    tools:text="NUBLADO" />
+
+            <ImageView
+                    android:id="@+id/iconMax"
+                    android:layout_width="40dp"
+                    app:layout_constraintBottom_toTopOf="@id/iconMin"
+                    app:layout_constraintHorizontal_chainStyle="packed"
+                    android:layout_height="40dp"
+                    android:src="@drawable/arrow_drop_up"
+                    app:layout_constraintTop_toBottomOf="@id/txtDescription"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toStartOf="@id/txtMax"
+                    app:tint="#E60101" />
+
+            <TextView
+                    android:id="@+id/txtMax"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintStart_toEndOf="@id/iconMax"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    android:textColor="@color/white"
+                    tools:text="50°C"
+                    app:layout_constraintTop_toBottomOf="@id/txtDescription"
+                    app:layout_constraintBottom_toBottomOf="@id/iconMax" />
+
+            <ImageView
+                    android:id="@+id/iconMin"
+                    android:layout_width="40dp"
+                    app:layout_constraintHorizontal_chainStyle="packed"
+                    android:layout_height="40dp"
+                    android:src="@drawable/arrow_drop_down"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/iconMax"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toStartOf="@id/txtMin"
+                    app:tint="#01C4E6" />
+
+            <TextView
+                    android:id="@+id/txtMin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:layout_constraintStart_toEndOf="@id/iconMin"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    android:textColor="@color/white"
+                    tools:text="50°C"
+                    app:layout_constraintTop_toBottomOf="@id/iconMax"
+                    app:layout_constraintBottom_toBottomOf="@id/iconMin" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

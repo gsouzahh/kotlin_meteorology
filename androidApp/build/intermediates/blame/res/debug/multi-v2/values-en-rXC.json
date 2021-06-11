@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "outputFile": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Guilherme S Forato\\.gradle\\caches\\transforms-2\\files-2.1\\36d9f961dad5746e51fba3b64c974550\\core-1.5.0\\res\\values-en-rXC\\values-en-rXC.xml",

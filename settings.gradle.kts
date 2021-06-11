@@ -7,7 +7,7 @@ pluginManagement {
     }
     
 }
-rootProject.name = "meteorologia"
+rootProject.name = "meteorology"
 
 
 include(":androidApp")

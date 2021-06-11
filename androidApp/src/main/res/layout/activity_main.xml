@@ -1,155 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/main_view"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".MainActivity">
-
-  <ImageView
-      android:layout_width="match_parent"
-      android:layout_height="match_parent"
-      android:scaleType="fitXY"
-      android:src="@drawable/fundo" />
-
-  <ViewFlipper
-      android:id="@+id/viewFlipper"
-      android:layout_width="match_parent"
-      android:layout_height="match_parent">
-
-    <ProgressBar
-        android:id="@+id/progressBar"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center" />
-
-    <androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/main_view"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
 
-      <TextView
-          android:id="@+id/testando"
-          android:layout_width="0dp"
-          android:layout_height="wrap_content"
-          android:layout_marginTop="30dp"
-          android:gravity="center"
-          android:paddingVertical="10dp"
-          tools:text="@string/hello_blank_fragment"
-          android:textAllCaps="true"
-          android:textColor="@color/white"
-          android:textSize="25sp"
-          android:textStyle="bold"
-          app:layout_constraintEnd_toEndOf="parent"
-          app:layout_constraintStart_toStartOf="parent"
-          app:layout_constraintTop_toTopOf="parent" />
-
-      <TextView
-          android:id="@+id/dataCurrent"
-          android:layout_width="0dp"
-          android:layout_height="wrap_content"
-          android:gravity="center_horizontal"
-          android:textColor="@color/white"
-          app:layout_constraintEnd_toEndOf="parent"
-          app:layout_constraintStart_toStartOf="parent"
-          app:layout_constraintTop_toBottomOf="@id/testando"
-          tools:text="DATE" />
-
-      <TextView
-          android:id="@+id/timeCurrent"
-          android:layout_width="0dp"
-          android:layout_height="wrap_content"
-          android:gravity="center_horizontal"
-          android:textColor="@color/white"
-          app:layout_constraintEnd_toEndOf="parent"
-          app:layout_constraintStart_toStartOf="parent"
-          app:layout_constraintTop_toBottomOf="@id/dataCurrent"
-          tools:text="HOUR" />
-
-      <ImageView
-          android:id="@+id/imageLogo"
-          android:layout_width="150dp"
-          android:layout_height="150dp"
-          android:layout_marginTop="30dp"
-          app:layout_constraintEnd_toEndOf="parent"
-          app:layout_constraintStart_toStartOf="parent"
-          app:layout_constraintTop_toBottomOf="@id/timeCurrent"
-          android:src="@drawable/clima1"
-          />
-
-      <TextView
-          android:id="@+id/txt_info"
-          android:layout_width="0dp"
-          android:layout_height="wrap_content"
-          android:layout_marginTop="20dp"
-          android:gravity="center_horizontal"
-          android:textAllCaps="true"
-          android:textColor="@color/white"
-          android:textSize="24sp"
-          android:textStyle="bold"
-          app:layout_constraintEnd_toEndOf="parent"
-          app:layout_constraintStart_toStartOf="parent"
-          app:layout_constraintTop_toBottomOf="@id/imageLogo"
-          tools:text="Céu Limpo" />
-
-      <ImageView
-          android:id="@+id/iconHumidity"
-          android:layout_width="50dp"
-          android:layout_height="50dp"
-          android:src="@drawable/humidade"
-          app:layout_constraintEnd_toStartOf="@id/txt_humidity"
-          app:layout_constraintStart_toStartOf="parent"
-          app:layout_constraintTop_toTopOf="@id/txt_humidity"
-          app:layout_constraintBottom_toBottomOf="@id/txt_humidity"
-          />
-      <TextView
-          android:id="@+id/txt_humidity"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          tools:text="0C°"
-          android:textColor="@color/white"
-          android:textSize="40sp"
-          app:layout_constraintEnd_toEndOf="@id/txt_temp"
-          app:layout_constraintBottom_toTopOf="@id/txt_temp"
-          app:layout_constraintStart_toEndOf="@id/iconTemp"
-          />
-      <ImageView
-          android:id="@+id/iconTemp"
-          android:layout_width="50dp"
-          android:layout_height="50dp"
-          app:layout_constraintStart_toStartOf="parent"
-          app:layout_constraintTop_toTopOf="@id/txt_temp"
-          app:layout_constraintBottom_toBottomOf="@id/txt_temp"
-          />
-      <TextView
-          android:id="@+id/txt_temp"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          tools:text="0C°"
-          android:textColor="@color/white"
-          android:textSize="80sp"
-          android:shadowColor="#009A82"
-          android:shadowDx="1"
-          android:shadowRadius="30"
-          android:shadowDy="1"
-          android:textStyle="bold"
-          app:layout_constraintBottom_toTopOf="@id/txt_feels_like"
-          app:layout_constraintStart_toEndOf="@id/iconTemp"
-          />
-
-      <TextView
-          android:id="@+id/txt_feels_like"
-          android:layout_width="wrap_content"
-          android:layout_height="wrap_content"
-          android:layout_marginStart="20dp"
-          android:layout_marginBottom="30dp"
-          android:text="@string/feels_like"
-          android:textColor="@color/white"
-          android:textSize="20sp"
-          app:layout_constraintEnd_toEndOf="@id/txt_temp"
-          app:layout_constraintBottom_toBottomOf="parent"
-          app:layout_constraintStart_toStartOf="parent" />
-    </androidx.constraintlayout.widget.ConstraintLayout>
-  </ViewFlipper>
+  <androidx.fragment.app.FragmentContainerView
+          android:id="@+id/fragmentContainerView"
+          android:name="androidx.navigation.fragment.NavHostFragment"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          app:defaultNavHost="true"
+          app:navGraph="@navigation/nav_main" />
 </RelativeLayout>

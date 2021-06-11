@@ -1,6 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\meteorologia\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_prevision.xml",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\layout\\item_prevision.xml"
     }
 ]

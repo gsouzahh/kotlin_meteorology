@@ -4,13 +4,10 @@ package me.guilherme.s.forato.androidApp.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
-import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
-import android.widget.TextView;
-import android.widget.ViewFlipper;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.fragment.app.FragmentContainerView;
 import androidx.viewbinding.ViewBinding;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -22,64 +19,16 @@ public final class ActivityMainBinding implements ViewBinding {
   private final RelativeLayout rootView;
 
   @NonNull
-  public final TextView dataCurrent;
-
-  @NonNull
-  public final ImageView iconHumidity;
-
-  @NonNull
-  public final ImageView iconTemp;
-
-  @NonNull
-  public final ImageView imageLogo;
+  public final FragmentContainerView fragmentContainerView;
 
   @NonNull
   public final RelativeLayout mainView;
 
-  @NonNull
-  public final ProgressBar progressBar;
-
-  @NonNull
-  public final TextView testando;
-
-  @NonNull
-  public final TextView timeCurrent;
-
-  @NonNull
-  public final TextView txtFeelsLike;
-
-  @NonNull
-  public final TextView txtHumidity;
-
-  @NonNull
-  public final TextView txtInfo;
-
-  @NonNull
-  public final TextView txtTemp;
-
-  @NonNull
-  public final ViewFlipper viewFlipper;
-
-  private ActivityMainBinding(@NonNull RelativeLayout rootView, @NonNull TextView dataCurrent,
-      @NonNull ImageView iconHumidity, @NonNull ImageView iconTemp, @NonNull ImageView imageLogo,
-      @NonNull RelativeLayout mainView, @NonNull ProgressBar progressBar,
-      @NonNull TextView testando, @NonNull TextView timeCurrent, @NonNull TextView txtFeelsLike,
-      @NonNull TextView txtHumidity, @NonNull TextView txtInfo, @NonNull TextView txtTemp,
-      @NonNull ViewFlipper viewFlipper) {
+  private ActivityMainBinding(@NonNull RelativeLayout rootView,
+      @NonNull FragmentContainerView fragmentContainerView, @NonNull RelativeLayout mainView) {
     this.rootView = rootView;
-    this.dataCurrent = dataCurrent;
-    this.iconHumidity = iconHumidity;
-    this.iconTemp = iconTemp;
-    this.imageLogo = imageLogo;
+    this.fragmentContainerView = fragmentContainerView;
     this.mainView = mainView;
-    this.progressBar = progressBar;
-    this.testando = testando;
-    this.timeCurrent = timeCurrent;
-    this.txtFeelsLike = txtFeelsLike;
-    this.txtHumidity = txtHumidity;
-    this.txtInfo = txtInfo;
-    this.txtTemp = txtTemp;
-    this.viewFlipper = viewFlipper;
   }
 
   @Override
@@ -109,83 +58,15 @@ public final class ActivityMainBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.dataCurrent;
-      TextView dataCurrent = rootView.findViewById(id);
-      if (dataCurrent == null) {
-        break missingId;
-      }
-
-      id = R.id.iconHumidity;
-      ImageView iconHumidity = rootView.findViewById(id);
-      if (iconHumidity == null) {
-        break missingId;
-      }
-
-      id = R.id.iconTemp;
-      ImageView iconTemp = rootView.findViewById(id);
-      if (iconTemp == null) {
-        break missingId;
-      }
-
-      id = R.id.imageLogo;
-      ImageView imageLogo = rootView.findViewById(id);
-      if (imageLogo == null) {
+      id = R.id.fragmentContainerView;
+      FragmentContainerView fragmentContainerView = rootView.findViewById(id);
+      if (fragmentContainerView == null) {
         break missingId;
       }
 
       RelativeLayout mainView = (RelativeLayout) rootView;
 
-      id = R.id.progressBar;
-      ProgressBar progressBar = rootView.findViewById(id);
-      if (progressBar == null) {
-        break missingId;
-      }
-
-      id = R.id.testando;
-      TextView testando = rootView.findViewById(id);
-      if (testando == null) {
-        break missingId;
-      }
-
-      id = R.id.timeCurrent;
-      TextView timeCurrent = rootView.findViewById(id);
-      if (timeCurrent == null) {
-        break missingId;
-      }
-
-      id = R.id.txt_feels_like;
-      TextView txtFeelsLike = rootView.findViewById(id);
-      if (txtFeelsLike == null) {
-        break missingId;
-      }
-
-      id = R.id.txt_humidity;
-      TextView txtHumidity = rootView.findViewById(id);
-      if (txtHumidity == null) {
-        break missingId;
-      }
-
-      id = R.id.txt_info;
-      TextView txtInfo = rootView.findViewById(id);
-      if (txtInfo == null) {
-        break missingId;
-      }
-
-      id = R.id.txt_temp;
-      TextView txtTemp = rootView.findViewById(id);
-      if (txtTemp == null) {
-        break missingId;
-      }
-
-      id = R.id.viewFlipper;
-      ViewFlipper viewFlipper = rootView.findViewById(id);
-      if (viewFlipper == null) {
-        break missingId;
-      }
-
-      return new ActivityMainBinding((RelativeLayout) rootView, dataCurrent, iconHumidity, iconTemp,
-          imageLogo, mainView, progressBar, testando, timeCurrent, txtFeelsLike, txtHumidity,
-          txtInfo, txtTemp, viewFlipper);
+      return new ActivityMainBinding((RelativeLayout) rootView, fragmentContainerView, mainView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

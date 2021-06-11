@@ -1,0 +1,4 @@
+me/guilherme/s/forato/androidApp/BuildConfig.java
+ me.guilherme.s.forato.androidApp.BuildConfig
+me/guilherme/s/forato/androidApp/databinding/ActivityMainBinding.java
+ me.guilherme.s.forato.androidApp.databinding.ActivityMainBinding
