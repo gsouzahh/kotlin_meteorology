@@ -31,12 +31,6 @@
             android:exported="false"
             android:label=""
             android:theme="@style/EasyPermissions.Transparent" />
-
-        <provider
-            android:name="com.squareup.picasso.PicassoProvider"
-            android:authorities="me.guilherme.s.forato.androidApp.com.squareup.picasso"
-            android:exported="false" />
-
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

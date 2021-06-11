@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_item_prevision.xml.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\layout\\item_prevision.xml"
-    },
-    {
         "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_sky_clear.png.flat",
         "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\sky_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_item_prevision.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\layout\\item_prevision.xml"
     },
     {
         "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_doublearrow.png.flat",
@@ -28,12 +28,16 @@
         "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\ellipsis.png"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_chuva_leve.png.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\chuva_leve.png"
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\anim_layout_animation.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\anim\\layout_animation.xml"
     },
     {
         "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_humidity.png.flat",
         "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_chuva_leve.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\chuva_leve.png"
     },
     {
         "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_chuva_moderada.png.flat",
@@ -52,12 +56,12 @@
         "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\climate.png"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\navigation_nav_main.xml.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\navigation\\nav_main.xml"
-    },
-    {
         "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_drop_down.xml.flat",
         "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\arrow_drop_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\navigation_nav_main.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\navigation\\nav_main.xml"
     },
     {
         "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_fundo.jpg.flat",
@@ -78,6 +82,10 @@
     {
         "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_nublado.png.flat",
         "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\nublado.png"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\anim_slide_in.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\anim\\slide_in.xml"
     },
     {
         "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_round_btn.xml.flat",

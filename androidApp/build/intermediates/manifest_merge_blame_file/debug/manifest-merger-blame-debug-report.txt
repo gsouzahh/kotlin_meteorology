@@ -54,31 +54,21 @@
 32-->[pub.devrel:easypermissions:3.0.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\5126fad7a6f89491054b62903e252a8d\easypermissions-3.0.0\AndroidManifest.xml:15:13-29
 33            android:theme="@style/EasyPermissions.Transparent" />
 33-->[pub.devrel:easypermissions:3.0.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\5126fad7a6f89491054b62903e252a8d\easypermissions-3.0.0\AndroidManifest.xml:16:13-63
-34
-35        <provider
-35-->[com.squareup.picasso:picasso:2.71828] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\3c768943507aae2e752baca2dde488af\picasso-2.71828\AndroidManifest.xml:8:9-11:40
-36            android:name="com.squareup.picasso.PicassoProvider"
-36-->[com.squareup.picasso:picasso:2.71828] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\3c768943507aae2e752baca2dde488af\picasso-2.71828\AndroidManifest.xml:9:13-64
-37            android:authorities="me.guilherme.s.forato.androidApp.com.squareup.picasso"
-37-->[com.squareup.picasso:picasso:2.71828] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\3c768943507aae2e752baca2dde488af\picasso-2.71828\AndroidManifest.xml:10:13-72
-38            android:exported="false" />
-38-->[com.squareup.picasso:picasso:2.71828] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\3c768943507aae2e752baca2dde488af\picasso-2.71828\AndroidManifest.xml:11:13-37
-39
-40        <activity
-40-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\a890cf4775cc6d0f404195452b7c98fd\play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
-41            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-41-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\a890cf4775cc6d0f404195452b7c98fd\play-services-base-17.5.0\AndroidManifest.xml:24:13-79
-42            android:exported="false"
-42-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\a890cf4775cc6d0f404195452b7c98fd\play-services-base-17.5.0\AndroidManifest.xml:25:13-37
-43            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-43-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\a890cf4775cc6d0f404195452b7c98fd\play-services-base-17.5.0\AndroidManifest.xml:26:13-72
-44
-45        <meta-data
-45-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\7ec591056e8c77f13c0e06027d6052f2\play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
-46            android:name="com.google.android.gms.version"
-46-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\7ec591056e8c77f13c0e06027d6052f2\play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
-47            android:value="@integer/google_play_services_version" />
-47-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\7ec591056e8c77f13c0e06027d6052f2\play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
-48    </application>
-49
-50</manifest>
+34        <activity
+34-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\a890cf4775cc6d0f404195452b7c98fd\play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+35            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+35-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\a890cf4775cc6d0f404195452b7c98fd\play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+36            android:exported="false"
+36-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\a890cf4775cc6d0f404195452b7c98fd\play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+37            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+37-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\a890cf4775cc6d0f404195452b7c98fd\play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+38
+39        <meta-data
+39-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\7ec591056e8c77f13c0e06027d6052f2\play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+40            android:name="com.google.android.gms.version"
+40-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\7ec591056e8c77f13c0e06027d6052f2\play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+41            android:value="@integer/google_play_services_version" />
+41-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\7ec591056e8c77f13c0e06027d6052f2\play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+42    </application>
+43
+44</manifest>
