@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_sky_clear.png.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\sky_clear.png"
-    },
-    {
         "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_item_prevision.xml.flat",
         "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\layout\\item_prevision.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_sky_clear.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\sky_clear.png"
     },
     {
         "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_doublearrow.png.flat",
