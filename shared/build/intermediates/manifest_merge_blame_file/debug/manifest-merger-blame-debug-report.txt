@@ -4,8 +4,8 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="24"
-6-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\shared\src\androidMain\AndroidManifest.xml
+6-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\shared\src\androidMain\AndroidManifest.xml
 7        android:targetSdkVersion="29" />
-7-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\shared\src\androidMain\AndroidManifest.xml
+7-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\shared\src\androidMain\AndroidManifest.xml
 8
 9</manifest>

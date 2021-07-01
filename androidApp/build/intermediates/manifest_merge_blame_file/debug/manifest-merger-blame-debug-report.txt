@@ -6,69 +6,69 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml
+8-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml
+9-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-11-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:4:5-79
-11-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:4:22-76
+11-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml:4:5-79
+11-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml:4:22-76
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:5:5-66
-12-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:5:22-64
+12-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml:5:5-66
+12-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml:5:22-64
 13
 14    <application
-14-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:7:5-17:19
+14-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml:7:5-17:19
 15        android:allowBackup="false"
-15-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:8:13-40
+15-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml:8:13-40
 16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-16-->[androidx.core:core:1.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\36d9f961dad5746e51fba3b64c974550\core-1.5.0\AndroidManifest.xml:24:18-86
+16-->[androidx.core:core:1.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\1ed94c5f8260f8fb70c24b3c71971b47\core-1.5.0\AndroidManifest.xml:24:18-86
 17        android:debuggable="true"
 18        android:extractNativeLibs="false"
 19        android:supportsRtl="true"
-19-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:9:13-39
+19-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml:9:13-39
 20        android:testOnly="true"
 21        android:theme="@style/AppTheme" >
-21-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:10:13-44
+21-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml:10:13-44
 22        <activity android:name="me.guilherme.s.forato.androidApp.MainActivity" >
-22-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:11:9-16:20
-22-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:11:19-47
+22-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml:11:9-16:20
+22-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml:11:19-47
 23            <intent-filter>
-23-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:12:13-15:29
+23-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml:12:13-15:29
 24                <action android:name="android.intent.action.MAIN" />
-24-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:13:17-68
-24-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:13:25-66
+24-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml:13:17-68
+24-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml:13:25-66
 25
 26                <category android:name="android.intent.category.LAUNCHER" />
-26-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:14:17-76
-26-->C:\Users\Guilherme S Forato\Desktop\And_Stud_All\Projetos\Meteorology\androidApp\src\main\AndroidManifest.xml:14:27-74
+26-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml:14:17-76
+26-->C:\Users\Guilherme S Forato\Documents\GitHub\meteorology_kotlin\androidApp\src\main\AndroidManifest.xml:14:27-74
 27            </intent-filter>
 28        </activity>
 29        <activity
-29-->[pub.devrel:easypermissions:3.0.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\5126fad7a6f89491054b62903e252a8d\easypermissions-3.0.0\AndroidManifest.xml:12:9-16:66
+29-->[pub.devrel:easypermissions:3.0.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\b11afea3a27ff1f8b9257e82b7ecbe3a\easypermissions-3.0.0\AndroidManifest.xml:12:9-16:66
 30            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
-30-->[pub.devrel:easypermissions:3.0.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\5126fad7a6f89491054b62903e252a8d\easypermissions-3.0.0\AndroidManifest.xml:13:13-86
+30-->[pub.devrel:easypermissions:3.0.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\b11afea3a27ff1f8b9257e82b7ecbe3a\easypermissions-3.0.0\AndroidManifest.xml:13:13-86
 31            android:exported="false"
-31-->[pub.devrel:easypermissions:3.0.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\5126fad7a6f89491054b62903e252a8d\easypermissions-3.0.0\AndroidManifest.xml:14:13-37
+31-->[pub.devrel:easypermissions:3.0.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\b11afea3a27ff1f8b9257e82b7ecbe3a\easypermissions-3.0.0\AndroidManifest.xml:14:13-37
 32            android:label=""
-32-->[pub.devrel:easypermissions:3.0.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\5126fad7a6f89491054b62903e252a8d\easypermissions-3.0.0\AndroidManifest.xml:15:13-29
+32-->[pub.devrel:easypermissions:3.0.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\b11afea3a27ff1f8b9257e82b7ecbe3a\easypermissions-3.0.0\AndroidManifest.xml:15:13-29
 33            android:theme="@style/EasyPermissions.Transparent" />
-33-->[pub.devrel:easypermissions:3.0.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\5126fad7a6f89491054b62903e252a8d\easypermissions-3.0.0\AndroidManifest.xml:16:13-63
+33-->[pub.devrel:easypermissions:3.0.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\b11afea3a27ff1f8b9257e82b7ecbe3a\easypermissions-3.0.0\AndroidManifest.xml:16:13-63
 34        <activity
-34-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\a890cf4775cc6d0f404195452b7c98fd\play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+34-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\4905ee34a2eb55108b60cdb5c41beed8\play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
 35            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-35-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\a890cf4775cc6d0f404195452b7c98fd\play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+35-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\4905ee34a2eb55108b60cdb5c41beed8\play-services-base-17.5.0\AndroidManifest.xml:24:13-79
 36            android:exported="false"
-36-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\a890cf4775cc6d0f404195452b7c98fd\play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+36-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\4905ee34a2eb55108b60cdb5c41beed8\play-services-base-17.5.0\AndroidManifest.xml:25:13-37
 37            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-37-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\a890cf4775cc6d0f404195452b7c98fd\play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+37-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\4905ee34a2eb55108b60cdb5c41beed8\play-services-base-17.5.0\AndroidManifest.xml:26:13-72
 38
 39        <meta-data
-39-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\7ec591056e8c77f13c0e06027d6052f2\play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+39-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\b2700781e2c78246b5d22b353ff1459d\play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
 40            android:name="com.google.android.gms.version"
-40-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\7ec591056e8c77f13c0e06027d6052f2\play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+40-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\b2700781e2c78246b5d22b353ff1459d\play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
 41            android:value="@integer/google_play_services_version" />
-41-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\7ec591056e8c77f13c0e06027d6052f2\play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+41-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Guilherme S Forato\.gradle\caches\transforms-2\files-2.1\b2700781e2c78246b5d22b353ff1459d\play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
 42    </application>
 43
 44</manifest>

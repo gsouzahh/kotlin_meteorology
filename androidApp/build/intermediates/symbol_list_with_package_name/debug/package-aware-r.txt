@@ -1698,6 +1698,8 @@ drawable btn_radio_on_to_off_mtrl_animation
 drawable chuva_forte
 drawable chuva_leve
 drawable chuva_moderada
+drawable clima1
+drawable clima2
 drawable climate
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
@@ -1726,9 +1728,11 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable doublearrow
 drawable ellipsis
+drawable frio
 drawable fundo
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable humidade
 drawable humidity
 drawable iarrow_down
 drawable ic_baseline_loop_24
@@ -1772,6 +1776,7 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable nublado
 drawable nuvens
+drawable quente
 drawable round_btn
 drawable sky_clear
 drawable snow
@@ -2456,6 +2461,7 @@ string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string feels_like
+string google_maps_key
 string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description

@@ -1,94 +1,114 @@
 [
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_item_prevision.xml.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\layout\\item_prevision.xml"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_item_prevision.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\layout\\item_prevision.xml"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_sky_clear.png.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\sky_clear.png"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_iarrow_down.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\iarrow_down.xml"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_doublearrow.png.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\doublearrow.png"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_clima1.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\clima1.png"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_chuva_forte.png.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\chuva_forte.png"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_round_btn.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\round_btn.xml"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_nuvens.png.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\nuvens.png"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_snow.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\snow.png"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ellipsis.png.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\ellipsis.png"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_frio.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\frio.png"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\anim_layout_animation.xml.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\anim\\layout_animation.xml"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_chuva_moderada.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\chuva_moderada.png"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_humidity.png.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\humidity.png"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_fundo.jpg.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\fundo.jpg"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_chuva_leve.png.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\chuva_leve.png"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_drop_down.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\arrow_drop_down.xml"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_chuva_moderada.png.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\chuva_moderada.png"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\anim_layout_animation.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\anim\\layout_animation.xml"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_drop_up.xml.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\arrow_drop_up.xml"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_nublado.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\nublado.png"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_iarrow_down.xml.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\iarrow_down.xml"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ellipsis.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\ellipsis.png"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_climate.png.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\climate.png"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_humidade.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\humidade.png"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_drop_down.xml.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\arrow_drop_down.xml"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\navigation_nav_main.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\navigation\\nav_main.xml"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\navigation_nav_main.xml.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\navigation\\nav_main.xml"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_drop_up.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\arrow_drop_up.xml"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_fundo.jpg.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\fundo.jpg"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_climate.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\climate.png"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_snow.png.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\snow.png"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\anim_slide_in.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\anim\\slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_nuvens.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\nuvens.png"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_loop_24.xml.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\ic_baseline_loop_24.xml"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_quente.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\quente.png"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_nublado.png.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\nublado.png"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_chuva_leve.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\chuva_leve.png"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\anim_slide_in.xml.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\anim\\slide_in.xml"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_clima2.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\clima2.png"
     },
     {
-        "merged": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_round_btn.xml.flat",
-        "source": "C:\\Users\\Guilherme S Forato\\Desktop\\And_Stud_All\\Projetos\\Meteorology\\androidApp\\src\\main\\res\\drawable\\round_btn.xml"
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_loop_24.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\ic_baseline_loop_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_doublearrow.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\doublearrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_sky_clear.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\sky_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_chuva_forte.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\chuva_forte.png"
+    },
+    {
+        "merged": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_humidity.png.flat",
+        "source": "C:\\Users\\Guilherme S Forato\\Documents\\GitHub\\meteorology_kotlin\\androidApp\\src\\main\\res\\drawable\\humidity.png"
     }
 ]

@@ -6,7 +6,6 @@ import io.ktor.client.features.json.*
 import io.ktor.client.features.json.serializer.*
 import io.ktor.client.request.*
 import PostResponse.Results
-import io.ktor.client.features.*
 
 class MeteorologyApi {
 
